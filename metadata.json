@@ -1,0 +1,7 @@
+{
+  "name": "Turbo Racer",
+  "description": "Heyecan dolu arcade yarış oyunu. Trafikte hız yap, nitroyu ateşle, coin topla, yeni spor araçların kilidini aç ve en yüksek skoru yap!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
